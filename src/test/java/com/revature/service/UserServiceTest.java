@@ -54,10 +54,10 @@ public class UserServiceTest {
     }
 
 
-    @Test
-    public void testConnectionToDatabase() throws SQLException {
-        ConnectionUtility.getConnection();
-    }
+//    @Test
+//    public void testConnectionToDatabase() throws SQLException {
+//        ConnectionUtility.getConnection();
+//    }
 
 
 }
